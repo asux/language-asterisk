@@ -1,0 +1,20 @@
+{
+  "name": "language-asterisk",
+  "version": "0.1.0",
+  "description": "Language file for Asterisk config and AEL2",
+  "keywords": [
+    "language",
+    "asterisk",
+    "config",
+    "ael",
+    "ael2",
+    "asterisk extended language"
+  ],
+  "repository": "https://github.com/asux/language-asterisk",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
